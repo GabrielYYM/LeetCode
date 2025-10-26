@@ -16,13 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GabrielYYM/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/GabrielYYM/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GabrielYYM/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/GabrielYYM/LeetCode/tree/master/0013-roman-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GabrielYYM/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GabrielYYM/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/GabrielYYM/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
